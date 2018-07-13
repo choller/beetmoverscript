@@ -6,14 +6,8 @@ This project adheres to `Semantic Versioning <http://semver.org/>`__.
 
 .. towncrier release notes start
 
-[7.6.0] = (2018-07-11)
-----------------------
-
-Added
-~~~~~
-
--  support win64-asan-reporter and mac-asan-reporter platforms (`#1473259
-   <https://bugzilla.mozilla.org/show_bug.cgi?id=1473259>`_)
+[next] = (YYYY-MM-DD)
+---------------------
 
 [7.5.0] = (2018-07-02)
 ----------------------
